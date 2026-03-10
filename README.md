@@ -22,7 +22,7 @@ Dataset source: Weather images (details in the report).
 ## usage
 Run the notebook:
 - `DeepLearningAssignment_1158931_V3.ipynb`: Full implementation including data processing, model training, and evaluation.
-Note: The dataset (`dataset2.zip`) should be unzipped and organized into class directories.
+- The dataset is available at "https://data.mendeley.com/datasets/4drtyfjtfy/1"
 
 ## Results
 
